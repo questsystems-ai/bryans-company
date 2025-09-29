@@ -1,0 +1,19 @@
+# 5-HT targets to fetch and prepare
+receptors:
+  - pdb_id: "7WC5"   # 5-HT2A active
+    name: "5HT2A_active_7WC5"
+    state: "active"
+    chain: "A"
+    keep_ligand: true
+  - pdb_id: "6WGT"   # 5-HT2A
+    name: "5HT2A_active_6WGT"
+    state: "active"
+    chain: "A"
+    keep_ligand: true
+  - pdb_id: "4IB4"   # 5-HT2B off-target
+    name: "5HT2B_4IB4"
+    state: "offtarget"
+    chain: "A"
+    keep_ligand: true
+grid:
+  size: [24.0, 24.0, 24.0]  # A, default; can be overridden per receptor

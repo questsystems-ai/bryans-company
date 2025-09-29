@@ -1,0 +1,19 @@
+# Core cheminformatics / docking prep
+dimorphite-dl==1.2.5
+oddt==0.7
+
+# Data handling
+duckdb>=1.0
+pandas>=2.0
+pyarrow
+sqlalchemy>=2.0
+tqdm
+pydantic>=2
+requests
+ruamel.yaml
+loguru>=0.7,<0.8
+
+# Visualization / app
+streamlit>=1.36
+py3Dmol
+pymol-open-source==3.2.0a0

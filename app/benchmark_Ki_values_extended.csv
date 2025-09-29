@@ -1,0 +1,5 @@
+Ligand,Ki_5HT2A_nM,Ki_5HT2B_nM,Notes
+Psilocin,"moderate (~25–107, various)","<10 (suggested, uncertain)",Partial agonist; strong affinity for 5‑HT2A; uncertain but possibly high affinity at 5‑HT2B
+DMT,53–2323,101–184 (literature); 39–2100 (review),"Wide variability across studies; generally lower affinity at 5‑HT2A, moderate at 5‑HT2B"
+LSD,"<1 (sub‑nM, very strong)","<1 (sub‑nM, very strong)",Extremely strong binding at both 5‑HT2A and 5‑HT2B; benchmark for hallucinogens and off‑target safety risk
+Serotonin,200–500,hundreds–low µM,Endogenous neurotransmitter; weaker affinity than psychedelics; good baseline reference

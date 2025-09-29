@@ -1,0 +1,47 @@
+{
+  "5HT2A_active_7WC5": {
+    "center": [
+      -23.500338842975207,
+      -11.273752066115707,
+      139.88664462809916
+    ],
+    "size": [
+      24.0,
+      24.0,
+      24.0
+    ],
+    "pdb": "data/receptors/5HT2A_active_7WC5.pdb",
+    "pdb_id": "7WC5",
+    "state": "active"
+  },
+  "5HT2A_active_6WGT": {
+    "center": [
+      20.825090909090914,
+      11.051149999999993,
+      47.12027272727272
+    ],
+    "size": [
+      24.0,
+      24.0,
+      24.0
+    ],
+    "pdb": "data/receptors/5HT2A_active_6WGT.pdb",
+    "pdb_id": "6WGT",
+    "state": "active"
+  },
+  "5HT2B_4IB4": {
+    "center": [
+      17.042565853658537,
+      20.47547804878049,
+      -0.7381999999999993
+    ],
+    "size": [
+      24.0,
+      24.0,
+      24.0
+    ],
+    "pdb": "data/receptors/5HT2B_4IB4.pdb",
+    "pdb_id": "4IB4",
+    "state": "offtarget"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "pdb_id": "7WC5",
+    "name": "5HT2A_active_7WC5",
+    "state": "active",
+    "chain": "A",
+    "keep_ligand": true,
+    "pdb_path": "data/receptors/5HT2A_active_7WC5.pdb"
+  },
+  {
+    "pdb_id": "6WGT",
+    "name": "5HT2A_active_6WGT",
+    "state": "active",
+    "chain": "A",
+    "keep_ligand": true,
+    "pdb_path": "data/receptors/5HT2A_active_6WGT.pdb"
+  },
+  {
+    "pdb_id": "4IB4",
+    "name": "5HT2B_4IB4",
+    "state": "offtarget",
+    "chain": "A",
+    "keep_ligand": true,
+    "pdb_path": "data/receptors/5HT2B_4IB4.pdb"
+  }
+]

@@ -1,0 +1,27 @@
+# SMILES	NAME
+NCCc1c[nH]c2ccc(O)cc12	Serotonin
+CCN(CC)C(=O)[C@@H]1C=C2C3=CC=CC4N=CC(=C34)C[C@H]2N(C)C1	LSD
+CN(C)CCc1c[nH]c2cccc(O)c12	Psilocin
+[NH3+]CCc1c[nH]c2cccc(O)c12	Serotonin__p0
+[NH3+]CCc1c[nH]c2cccc([O-])c12	Serotonin__p1
+NCCc1c[nH]c2cccc(O)c12	Serotonin__p2
+NCCc1c[nH]c2cccc([O-])c12	Serotonin__p3
+CN(C)CCc1c[nH]c2cccc(O)c12	Psilocin__p0
+C[NH+](C)CCc1c[nH]c2cccc([O-])c12	Psilocin__p1
+CN(C)CCc1c[nH]c2cccc([O-])c12	Psilocin__p2
+C[NH+](C)CCc1c[nH]c2cccc(O)c12	Psilocin__p3
+Cc1cccc2[nH]cc(CCN(C)C)c12	DMT__p0
+Cc1cccc2[nH]cc(CC[NH+](C)C)c12	DMT__p1
+CN1C=C2CC[C@@H](c3ccc(Cl)cc3)N(CC1)[C@H]2Cc1c[nH]c2ccccc12	LSD__p0
+C[N@@H+]1C=C2CC[C@@H](c3ccc(Cl)cc3)N(CC1)[C@H]2Cc1c[nH]c2ccccc12	LSD__p1
+CN1C=C2CC[C@H](c3ccc(Cl)cc3)[N@H+](CC1)[C@@H]2Cc1c[nH]c2ccccc12	LSD__p2
+C[N@@H+]1C=C2CC[C@H](c3ccc(Cl)cc3)[N@H+](CC1)[C@@H]2Cc1c[nH]c2ccccc12	LSD__p3
+C[NH+](C)CCc1c[nH]c2ccccc12	DMT_like
+CN(C)CCc1c[nH]c2ccccc12	DMT_like
+[NH3+]CCc1c[nH]c2ccccc12	Tryptamine_like
+NCCc1c[nH]c2ccccc12	Tryptamine_like
+CC[N@@H+](C)CCc1c[nH]c2ccccc12	MET_like
+CCN(C)CCc1c[nH]c2ccccc12	MET_like
+NCCc1c[nH]c2ccc(O)cc12	Serotonin
+CCN(CC)C(=O)[C@@H]1C=C2C3=CC=CC4N=CC(=C34)C[C@H]2N(C)C1	/home/aaron_m_kushner/5ht-platform-starter/data/custom_ligands/LSD_from_5TVN.pdb
+CN(C)CCc1c[nH]c2cccc(O)c12	Psilocin

@@ -1,0 +1,7 @@
+# bench.smi
+# SMILES    ID    Notes
+
+NCCc1c[nH]c2cccc(O)c12    Serotonin    endogenous neurotransmitter
+CN(C)CCc1c[nH]c2cccc(O)c12    Psilocin    active metabolite of psilocybin
+CN(C)CCc1c[nH]c2cccc(C)c12    DMT        classic psychedelic tryptamine
+CN1CCN(C2CC3=CNC4=CC=CC=C34)C(CCC2=C1)c5ccc(Cl)cc5    LSD        ergoline, very high affinity
