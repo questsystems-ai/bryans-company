@@ -33,3 +33,6 @@ controls_bundle.zip
 controls_bundle*/
 
 README.md
+
+# allow summary outputs
+!data/screens/controls_summary/**
